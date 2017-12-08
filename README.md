@@ -1,4 +1,4 @@
-# Behavioral Cloning
+﻿# Behavioral Cloning
 
 ## Network Architecture
 The deep neural network architecture from NVIDIA's End to End Learning for Self-Driving Cars paper (https://arxiv.org/pdf/1604.07316.pdf) was used. It uses 5 convolutional layers followed by 4 fully connected layers and has close to 1.5 million parameters.
@@ -21,4 +21,4 @@ The deep neural network architecture from NVIDIA's End to End Learning for Self-
 5. A validation set was used during training. However, since mean squared error does not seem a very useful loss function for this task (since most of the steering angles are close to 0), the usefulness of the validation set is unclear.
 
 ## Results
-The model is able to drive around the test track safely. Watch the video [here.](https://www.youtube.com/watch?v=S6y2VIWvR6A) 
+ To be completed.

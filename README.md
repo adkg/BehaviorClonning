@@ -21,4 +21,4 @@ The deep neural network architecture from NVIDIA's End to End Learning for Self-
 5. A validation set was used during training. However, since mean squared error does not seem a very useful loss function for this task (since most of the steering angles are close to 0), the usefulness of the validation set is unclear.
 
 ## Results
- To be completed.
+ Model is successfully able to drive around test track safely.
